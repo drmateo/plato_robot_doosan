@@ -1,4 +1,4 @@
-# Plato Robotique Doosan
+# Plateau Robotique Doosan
 
 ## Pre-requisites
 
