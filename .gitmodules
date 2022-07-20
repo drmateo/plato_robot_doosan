@@ -1,0 +1,4 @@
+[submodule "src/doosan-robot"]
+	path = src/doosan-robot
+	url = https://github.com/doosan-robotics/doosan-robot
+	branch = noetic-devel
